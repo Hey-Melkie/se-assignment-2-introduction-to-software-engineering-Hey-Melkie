@@ -109,7 +109,7 @@ Adherance to ethical standards
 3.  Transparency and user consent
 4.  Following professional codes of conduct
 5.  Collaboration with colleagues
-6.  Implememnting appropriate security measures
+6.  Implementing appropriate security measures
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
